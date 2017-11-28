@@ -1,0 +1,15 @@
+.form-step {
+}
+
+.form-step__title {
+
+}
+
+.form-step__button-next, .form-step__button-previous {
+
+}
+
+.form-step__content {
+  margin-left: 2rem;
+  border: 1px solid magenta;
+}
